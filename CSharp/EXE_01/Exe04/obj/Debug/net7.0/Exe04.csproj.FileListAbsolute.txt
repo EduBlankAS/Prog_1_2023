@@ -1,0 +1,15 @@
+C:\Users\405800\Desktop\CSharp\EXE_01\Exe04\bin\Debug\net7.0\Exe04.exe
+C:\Users\405800\Desktop\CSharp\EXE_01\Exe04\bin\Debug\net7.0\Exe04.deps.json
+C:\Users\405800\Desktop\CSharp\EXE_01\Exe04\bin\Debug\net7.0\Exe04.runtimeconfig.json
+C:\Users\405800\Desktop\CSharp\EXE_01\Exe04\bin\Debug\net7.0\Exe04.dll
+C:\Users\405800\Desktop\CSharp\EXE_01\Exe04\bin\Debug\net7.0\Exe04.pdb
+C:\Users\405800\Desktop\CSharp\EXE_01\Exe04\obj\Debug\net7.0\Exe04.csproj.AssemblyReference.cache
+C:\Users\405800\Desktop\CSharp\EXE_01\Exe04\obj\Debug\net7.0\Exe04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\405800\Desktop\CSharp\EXE_01\Exe04\obj\Debug\net7.0\Exe04.AssemblyInfoInputs.cache
+C:\Users\405800\Desktop\CSharp\EXE_01\Exe04\obj\Debug\net7.0\Exe04.AssemblyInfo.cs
+C:\Users\405800\Desktop\CSharp\EXE_01\Exe04\obj\Debug\net7.0\Exe04.csproj.CoreCompileInputs.cache
+C:\Users\405800\Desktop\CSharp\EXE_01\Exe04\obj\Debug\net7.0\Exe04.dll
+C:\Users\405800\Desktop\CSharp\EXE_01\Exe04\obj\Debug\net7.0\refint\Exe04.dll
+C:\Users\405800\Desktop\CSharp\EXE_01\Exe04\obj\Debug\net7.0\Exe04.pdb
+C:\Users\405800\Desktop\CSharp\EXE_01\Exe04\obj\Debug\net7.0\Exe04.genruntimeconfig.cache
+C:\Users\405800\Desktop\CSharp\EXE_01\Exe04\obj\Debug\net7.0\ref\Exe04.dll
