@@ -1,0 +1,15 @@
+C:\PROGRAMACAO_I\UNOESC\EXE_01\Exe02\bin\Debug\net7.0\Exe02.exe
+C:\PROGRAMACAO_I\UNOESC\EXE_01\Exe02\bin\Debug\net7.0\Exe02.deps.json
+C:\PROGRAMACAO_I\UNOESC\EXE_01\Exe02\bin\Debug\net7.0\Exe02.runtimeconfig.json
+C:\PROGRAMACAO_I\UNOESC\EXE_01\Exe02\bin\Debug\net7.0\Exe02.dll
+C:\PROGRAMACAO_I\UNOESC\EXE_01\Exe02\bin\Debug\net7.0\Exe02.pdb
+C:\PROGRAMACAO_I\UNOESC\EXE_01\Exe02\obj\Debug\net7.0\Exe02.csproj.AssemblyReference.cache
+C:\PROGRAMACAO_I\UNOESC\EXE_01\Exe02\obj\Debug\net7.0\Exe02.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAMACAO_I\UNOESC\EXE_01\Exe02\obj\Debug\net7.0\Exe02.AssemblyInfoInputs.cache
+C:\PROGRAMACAO_I\UNOESC\EXE_01\Exe02\obj\Debug\net7.0\Exe02.AssemblyInfo.cs
+C:\PROGRAMACAO_I\UNOESC\EXE_01\Exe02\obj\Debug\net7.0\Exe02.csproj.CoreCompileInputs.cache
+C:\PROGRAMACAO_I\UNOESC\EXE_01\Exe02\obj\Debug\net7.0\Exe02.dll
+C:\PROGRAMACAO_I\UNOESC\EXE_01\Exe02\obj\Debug\net7.0\refint\Exe02.dll
+C:\PROGRAMACAO_I\UNOESC\EXE_01\Exe02\obj\Debug\net7.0\Exe02.pdb
+C:\PROGRAMACAO_I\UNOESC\EXE_01\Exe02\obj\Debug\net7.0\Exe02.genruntimeconfig.cache
+C:\PROGRAMACAO_I\UNOESC\EXE_01\Exe02\obj\Debug\net7.0\ref\Exe02.dll
