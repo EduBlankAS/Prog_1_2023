@@ -1,0 +1,30 @@
+C:\Programacao I\2023\Exe\NumeroPorExtenso\bin\Debug\net7.0\NumeroPorExtenso.exe
+C:\Programacao I\2023\Exe\NumeroPorExtenso\bin\Debug\net7.0\NumeroPorExtenso.deps.json
+C:\Programacao I\2023\Exe\NumeroPorExtenso\bin\Debug\net7.0\NumeroPorExtenso.runtimeconfig.json
+C:\Programacao I\2023\Exe\NumeroPorExtenso\bin\Debug\net7.0\NumeroPorExtenso.dll
+C:\Programacao I\2023\Exe\NumeroPorExtenso\bin\Debug\net7.0\NumeroPorExtenso.pdb
+C:\Programacao I\2023\Exe\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.csproj.AssemblyReference.cache
+C:\Programacao I\2023\Exe\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacao I\2023\Exe\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.AssemblyInfoInputs.cache
+C:\Programacao I\2023\Exe\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.AssemblyInfo.cs
+C:\Programacao I\2023\Exe\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.csproj.CoreCompileInputs.cache
+C:\Programacao I\2023\Exe\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.dll
+C:\Programacao I\2023\Exe\NumeroPorExtenso\obj\Debug\net7.0\refint\NumeroPorExtenso.dll
+C:\Programacao I\2023\Exe\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.pdb
+C:\Programacao I\2023\Exe\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.genruntimeconfig.cache
+C:\Programacao I\2023\Exe\NumeroPorExtenso\obj\Debug\net7.0\ref\NumeroPorExtenso.dll
+C:\Users\405800\Desktop\Prog3_23-main\CSharp\EXE_01\NumeroPorExtenso\bin\Debug\net7.0\NumeroPorExtenso.exe
+C:\Users\405800\Desktop\Prog3_23-main\CSharp\EXE_01\NumeroPorExtenso\bin\Debug\net7.0\NumeroPorExtenso.deps.json
+C:\Users\405800\Desktop\Prog3_23-main\CSharp\EXE_01\NumeroPorExtenso\bin\Debug\net7.0\NumeroPorExtenso.runtimeconfig.json
+C:\Users\405800\Desktop\Prog3_23-main\CSharp\EXE_01\NumeroPorExtenso\bin\Debug\net7.0\NumeroPorExtenso.dll
+C:\Users\405800\Desktop\Prog3_23-main\CSharp\EXE_01\NumeroPorExtenso\bin\Debug\net7.0\NumeroPorExtenso.pdb
+C:\Users\405800\Desktop\Prog3_23-main\CSharp\EXE_01\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.csproj.AssemblyReference.cache
+C:\Users\405800\Desktop\Prog3_23-main\CSharp\EXE_01\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\405800\Desktop\Prog3_23-main\CSharp\EXE_01\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.AssemblyInfoInputs.cache
+C:\Users\405800\Desktop\Prog3_23-main\CSharp\EXE_01\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.AssemblyInfo.cs
+C:\Users\405800\Desktop\Prog3_23-main\CSharp\EXE_01\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.csproj.CoreCompileInputs.cache
+C:\Users\405800\Desktop\Prog3_23-main\CSharp\EXE_01\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.dll
+C:\Users\405800\Desktop\Prog3_23-main\CSharp\EXE_01\NumeroPorExtenso\obj\Debug\net7.0\refint\NumeroPorExtenso.dll
+C:\Users\405800\Desktop\Prog3_23-main\CSharp\EXE_01\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.pdb
+C:\Users\405800\Desktop\Prog3_23-main\CSharp\EXE_01\NumeroPorExtenso\obj\Debug\net7.0\NumeroPorExtenso.genruntimeconfig.cache
+C:\Users\405800\Desktop\Prog3_23-main\CSharp\EXE_01\NumeroPorExtenso\obj\Debug\net7.0\ref\NumeroPorExtenso.dll
