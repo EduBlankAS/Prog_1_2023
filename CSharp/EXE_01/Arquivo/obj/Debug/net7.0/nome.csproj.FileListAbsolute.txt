@@ -1,0 +1,15 @@
+C:\Users\405800\Desktop\Prog_1_2023-main\CSharp\(nome)\bin\Debug\net7.0\nome.exe
+C:\Users\405800\Desktop\Prog_1_2023-main\CSharp\(nome)\bin\Debug\net7.0\nome.deps.json
+C:\Users\405800\Desktop\Prog_1_2023-main\CSharp\(nome)\bin\Debug\net7.0\nome.runtimeconfig.json
+C:\Users\405800\Desktop\Prog_1_2023-main\CSharp\(nome)\bin\Debug\net7.0\nome.dll
+C:\Users\405800\Desktop\Prog_1_2023-main\CSharp\(nome)\bin\Debug\net7.0\nome.pdb
+C:\Users\405800\Desktop\Prog_1_2023-main\CSharp\(nome)\obj\Debug\net7.0\nome.csproj.AssemblyReference.cache
+C:\Users\405800\Desktop\Prog_1_2023-main\CSharp\(nome)\obj\Debug\net7.0\nome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\405800\Desktop\Prog_1_2023-main\CSharp\(nome)\obj\Debug\net7.0\nome.AssemblyInfoInputs.cache
+C:\Users\405800\Desktop\Prog_1_2023-main\CSharp\(nome)\obj\Debug\net7.0\nome.AssemblyInfo.cs
+C:\Users\405800\Desktop\Prog_1_2023-main\CSharp\(nome)\obj\Debug\net7.0\nome.csproj.CoreCompileInputs.cache
+C:\Users\405800\Desktop\Prog_1_2023-main\CSharp\(nome)\obj\Debug\net7.0\nome.dll
+C:\Users\405800\Desktop\Prog_1_2023-main\CSharp\(nome)\obj\Debug\net7.0\refint\nome.dll
+C:\Users\405800\Desktop\Prog_1_2023-main\CSharp\(nome)\obj\Debug\net7.0\nome.pdb
+C:\Users\405800\Desktop\Prog_1_2023-main\CSharp\(nome)\obj\Debug\net7.0\nome.genruntimeconfig.cache
+C:\Users\405800\Desktop\Prog_1_2023-main\CSharp\(nome)\obj\Debug\net7.0\ref\nome.dll
