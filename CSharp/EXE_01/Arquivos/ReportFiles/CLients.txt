@@ -1,0 +1,5 @@
+1;084-24594503;Vander;Hitler;vanderhitler@gmail.com
+2;18568567425;Ender;zerou;enderzerouu@unoesc.edu.br
+3;10015710089;gabimaru;vazio;gabimaruvazio@hotmail.com
+4;12345678912;Kanamaru;ishin;kanamaruishin@gmail.com
+5;1234567;Endo;seirin;endo@gmail.com
